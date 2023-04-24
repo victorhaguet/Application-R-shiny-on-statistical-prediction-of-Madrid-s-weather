@@ -208,4 +208,4 @@ summary(regManuel)$coef[c(1,2,3,4)]
 
 # save a .R file
 
-save(r2, file = "models.Rdata")
+save(r2, data.new, regManuelMean, regManuelMax, regManuelMin, file = "models.Rdata")

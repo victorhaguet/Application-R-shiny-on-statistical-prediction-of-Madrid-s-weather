@@ -1,0 +1,14 @@
+name: Prediction_of_Madrid_weather
+title: Prediction_of_Madrid_weather
+username:
+account: victorhaguet
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8934452
+bundleId: 7127961
+url: https://victorhaguet.shinyapps.io/Prediction_of_Madrid_weather/
+when: 1682341127.35356
+lastSyncTime: 1682341127.35356
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: modelisation.R
