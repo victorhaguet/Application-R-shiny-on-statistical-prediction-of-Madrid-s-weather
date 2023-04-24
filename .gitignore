@@ -1,0 +1,10 @@
+# History files
+.Rhistory
+
+# Session Data files
+.RData
+.Rproj.user
+
+# models
+
+models.Rdata
